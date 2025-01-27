@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    border: 100, solid, rgb(196, 38, 38);
+    height: 100%;
+    padding: 0;
+    position: relative;
+    justify-items: center;
+    text-align: center;
+    
+    align-items: center;
+    color: #fffdd0;
+    background-color: rgb(75, 14, 14);
+    font: Impact, Haettenschweiler,'Arial Narrow Bold' ,sans-serif;
+
+
+    font: rgb(1, 27, 1);
+    font-size: 25px;
+    padding: 50px;
+}   
+.one{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+hr{
+   color: rgb(1, 27, 1); 
+   
+}
+ 
